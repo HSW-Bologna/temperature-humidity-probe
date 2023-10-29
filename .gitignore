@@ -1,0 +1,6 @@
+/.cache
+/.vscode
+/.embuild
+build/
+components/*/target/
+Cargo.lock
